@@ -3,8 +3,7 @@
 </div>
 <img width="100%" src="https://i.imgur.com/6jAVj8L.jpg" title="source: imgur.com" />
 
-## Sobre mi
-
+<h2>Sobre Mí</h2>
             <p>Hola, soy Gustavo Alejandro Olmos, un apasionado desarrollador web con sede en San Justo, Santa Fe (Argentina). Poseo un sólido fondo educativo con la conclusión de mis                      estudios secundarios y actualmente estoy en mi segundo año de pregrado, especializándome en Desarrollo de Software. <br>
                 Mi fascinación por el código y la capacidad de dar vida a diseños con mis propias manos me impulsan constantemente a explorar nuevas tecnologías. Aunque me siento                           especialmente cómodo con el diseño web estático, estoy emocionado por desafiarme a mí mismo y aventurarme en el mundo del diseño Reactivo en el futuro. <br>
                 Mi enfoque principal se centra en el frontend, donde disfruto creando experiencias visuales atractivas. Sin embargo, mi travesía en proyectos de backend ha demostrado que                   estoy preparado para enfrentar retos más allá de mi zona de confort. Mi sueño es llegar a ser un desarrollador full-stack, integrando lo mejor de ambos mundos. <br>
